@@ -1,0 +1,6 @@
+model\Pessoa.class
+dao\PessoaDAO.class
+bean\EnderecoBean.class
+dao\EnderecoDAO.class
+model\Endereco.class
+bean\PessoaBean.class
